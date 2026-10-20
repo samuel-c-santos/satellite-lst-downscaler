@@ -1,0 +1,15 @@
+# Caches e arquivos temporarios
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Saidas raster e temporarios locais
+data_lst/
+*.tif
+*.tiff
+*.zip
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
